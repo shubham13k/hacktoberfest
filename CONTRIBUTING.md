@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Shubham Kumar](https://github.com/shubham13k)
+
+- Place: New Delhi, Delhi, India
+- Bio: Senior year pursuing BTech in Information Technology
+- GitHub: [shubham13k](https://github.com/shubham13k)
+
